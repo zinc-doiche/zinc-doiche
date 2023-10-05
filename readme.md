@@ -1,5 +1,4 @@
-
-<img src="spzh.png" style="filter: blur(5px)">
+<img src="spzh.png">
 
 ## 📜USING LANGUAGES
 
