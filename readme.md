@@ -16,3 +16,7 @@
 ![Spigot](https://img.shields.io/badge/Spigot-%23ee8813.svg?style=flat&logoColor=orange)
 ![Paper](https://img.shields.io/badge/Paper-%23000000.svg?style=flat&logo=paper&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-%23000000.svg?style=flat&logoColor=white)
+
+#### web dev
+
+[DEV-ZINC](https://github.com/dev-zinc)
