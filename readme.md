@@ -19,6 +19,8 @@
 ![Spigot](https://img.shields.io/badge/Spigot-%23ee8813.svg?style=flat&logoColor=orange)
 ![Paper](https://img.shields.io/badge/Paper-%23000000.svg?style=flat&logo=paper&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-%23000000.svg?style=flat&logoColor=white)
+![MythicMobs](https://img.shields.io/badge/MythicMobs-%23ff7600.svg?style=flat&logoColor=white)
+![ModelEngine](https://img.shields.io/badge/ModelEngine-%ff760000.svg?style=flat&logoColor=white)
 
 <br><br>
 
